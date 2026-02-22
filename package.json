@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@next-auth/prisma-adapter": "^1.0.7",
     "@prisma/adapter-better-sqlite3": "^7.4.0",
     "@prisma/client": "^5.22.0",
     "better-sqlite3": "^12.6.2",
